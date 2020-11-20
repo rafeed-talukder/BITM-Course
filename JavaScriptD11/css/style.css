@@ -1,0 +1,10 @@
+.carousel-add-section{
+    background: url("../img/2.jpg");
+    background-repeat:no-repeat;
+    /*width: 100%;*/
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    /*width: 100%;*/
+    /*height: 100%;*/
+}
