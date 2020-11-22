@@ -1,0 +1,15 @@
+.my-style{
+    height: 200px;
+    width: 600px;
+    border: 1px solid darkred;
+}
+
+.class-one{
+    background-color: black;
+    height: 100px ;
+    width: 100px;
+    border-radius: 100px;
+}
+#green{
+
+}
